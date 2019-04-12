@@ -19,7 +19,7 @@ disponible gracias a [hectorip](https://github.com/hectorip).
 
 ## Vivemos num mundo de Dados
 
-Em 2010, o então CEO da Google, Eric Schmidt,([mencionava](https://techcrunch.com/2010/08/04/schmidt-data/))
+Em 2010, o então CEO da Google, [Eric Schmidt](https://techcrunch.com/2010/08/04/schmidt-data/) mencionava
 que num período de dois dias nós criávamos tantos dados quanto no período que
 compreende desde o início da civilização até o ano de 2003. As compras que você
 faz são dados, as suas notas na escola são dados, seu perfil do Facebook está
@@ -31,7 +31,7 @@ Os dados são cruciais porque eles nos ajudam a tomar decisões e a entender o
 mundo que nos cerca. Dados são informações, informação é conhecimento, e
 conhecimento leva à tomada de decisões melhores: desde simples, como escolher um
 lugar para almoçar baseando-se nos comentários do Yelp; à complexas, como
-([predizer](http://www.forbes.com/sites/kashmirhill/2012/02/16/how-target-figured-out-a-teen-girl-was-pregnant-before-her-father-did/#1a3ac4))
+[predizer](http://www.forbes.com/sites/kashmirhill/2012/02/16/how-target-figured-out-a-teen-girl-was-pregnant-before-her-father-did/#1a3ac4)
 se uma mulher está grávida, baseando-se no seu histórico de compra em um
 supermercado.
 
@@ -43,7 +43,7 @@ dados. Com os computadores podemos ler dados, modificar dados e criar novos
 dados. Todos os dados são armazenados em longas sequências dos famosos _bits_
 as sequências de 0s e 1s que você provavelmente já viu no filme Matrix.
 
-Os computadores manipulam bilhões de bits. Para que o manejo destas grandes
+Os computadores manipulam bilhões de bits. Para que a manipulação destas grandes
 quantidades de informação seja mais fácil, eles são divididos em “pedaços” que
 representam partes de informação. No contexto do JavaScript, esses pedaços são
 chamados de _**values**_ (valores, em português). Cada _value_ possui um
@@ -56,7 +56,7 @@ existem cinco tipos de dados primitivos:
 4. `undefined` (indefinido).
 5. `null` (nulo).
 
-s dados e os tipos de dados formam as bases de qualquer linguagem de
+Os dados e os tipos de dados formam as bases de qualquer linguagem de
 programação. Eles nos permitem organizar a informação e determinar como o
 programa deve ser executado. Nesta seção você aprenderá a definir e manipular
 esses tipos de dados.
