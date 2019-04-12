@@ -12,9 +12,10 @@
 
 ***
 
-O texto em seguida se baseia em grande parte, com certos ajustes, ao capítulo 1
-de [Eloquent JavaScript](http://eloquentjavascript.net/), de Marijn
-Haverbeke, 2014. Tradução em [Português](http://braziljs.github.io/eloquente-javascript/chapters/valores-tipos-operadores).
+El texto a continuación se basa en gran medida, con ciertos ajustes, en el
+capítulo 1 de [Eloquent JavaScript](http://eloquentjavascript.net/),de Marijn
+Haverbeke, 2014. Traducción en [Español](http://hectorip.github.io/Eloquent-JavaScript-ES-online/chapters/01_values.html)
+disponible gracias a [hectorip](https://github.com/hectorip).
 
 ## Vivemos num mundo de Dados
 
@@ -143,8 +144,8 @@ Infinity - Infinity
 ```
 
 Também há um operador aritmético que pode não ser reconhecido imediatamente. O
-símbolo `%` é utilizado para representar a operação _residuo_. X `%` Y é o resto
-da divisão de X por Y. Por exemplo, 314 % 100 é 14 (porque 100 multiplicado por
+símbolo `%` é utilizado para representar a operação _residuo_. X `%` Y é o resto da
+divisão de X por Y. Por exemplo, 314 % 100 é 14 (porque 100 multiplicado por
 3 + 14 = 314), e 144 % 12 dá 0 (porque 12 multiplicado por 12 + 0 = 144). Você
 verá este operador frequentemente referido como _módulo_ embora, tecnicamente,
 resto é mais preciso.

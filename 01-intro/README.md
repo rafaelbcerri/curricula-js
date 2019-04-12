@@ -50,18 +50,11 @@ Seu primeiro contato com o mundo da tecnologia. Depois de uma breve introdução
 de boas vindas começaremos a explicar por que programar e você vai criar sua
 primeira página web!
 
-### Unidade 02: [Conteúdo](01-content)
+### Unidad 02: [Valores, tipos de dados e operadores](02-variables-and-data-types)
 
-Aprenda a usar variáveis para armazenar informações que mudam conforme você 
+Aprenda a usar variáveis ​​para armazenar informações que mudam conforme você
 programa e os diferentes tipos de dados em JavaScript.
 
-### Unidade 03: [Introdução a UX Design](02-ux-design)
-
-Todo site da precisa ser projetado com o usuário em mente. Antes de começar a
-criar seu produto final, é importante que você conheça as técnicas de design da
-experiência do usuário para que seu produto seja algo que as pessoas desejem usar.
-
-...
 
 ***
 
