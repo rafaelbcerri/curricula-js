@@ -25,6 +25,8 @@ Nesta unidade aprenderemos:
   - `document.querySelector()`
   - `document.querySelectorAll()`
 
+***
+
 ## O que é o DOM?
 
 A criação do _Document Object Model_ o `DOM` é uma das inovações que mais
